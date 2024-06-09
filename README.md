@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Fourat Kandil!
 
-![Profile Picture](https://via.placeholder.com/150)  
-*(Replace with your picture URL)*
+![Profile Picture](https://www.linkedin.com/in/kandil-fourat-348a90197/)  
 
 📧 Email: [Kandilfourat@gmail.com](mailto:Kandilfourat@gmail.com)
 
@@ -22,23 +21,17 @@ I’m currently studying **Software Engineering** at the **Higher Institute of C
 ## 🤝 Seeking
 I'm looking for a **summer internship** in:
 - Data Analytics
-- Artificial Intelligence
+- Machine learning
 
 ---
 
 ## 👨‍💻 Projects
-All of my projects are available on my [GitHub](https://github.com/yourusername). Feel free to explore and contribute!
+All of my projects are available on my Github. Feel free to explore and contribute!
 
 ---
 
 ## 📫 Contact Me
 - Email: [Kandilfourat@gmail.com](mailto:Kandilfourat@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-
----
-
-## 📄 Resume
-Know more about me via my [resume](link-to-your-resume).
 
 ---
 
